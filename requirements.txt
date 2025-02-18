@@ -1,0 +1,11 @@
+opencv-python
+jupyter
+jupyterlab
+pandas
+scikit-learn
+matplotlib
+seaborn
+timm==0.6.7
+markupsafe==2.0.1
+pytest
+gdown
