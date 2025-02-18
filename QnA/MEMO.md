@@ -1,0 +1,1 @@
+QnA for the assignment
